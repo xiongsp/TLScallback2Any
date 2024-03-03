@@ -1,0 +1,12 @@
+.vscode/
+.idea/
+__pycache__/
+
+# Visual Studio
+*.vs/
+*[Rr]elease/
+*[Dd]ebug/
+*x64/
+*x86/
+packages/
+*.pfx
